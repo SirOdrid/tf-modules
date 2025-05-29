@@ -8,7 +8,7 @@ app_service_plan_name = "myAppServicePlan"
 app_service_plan_tier = "B1"
 app_service_plan_size = "B1"
 
-sql_server_name       = "mySqlServer"
+sql_server_name       = "tcdb"
 sql_admin_username    = "root"
 sql_admin_password    = "root"
 
